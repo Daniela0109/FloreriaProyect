@@ -8,3 +8,10 @@
 
 ## Objetivo:
 Este proyecto consiste en el desarrollo de un sitio web para una florería, donde los usuarios pueden visualizar diferentes arreglos florales, conocer los servicios disponibles y realizar pedidos en línea. 
+
+## Tecnologías utilizadas
+- HTML  
+- CSS
+- JavaScript  
+- Node.js
+- React Native
